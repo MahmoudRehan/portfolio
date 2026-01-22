@@ -10,8 +10,8 @@ i {
 .main {
     
     background-color: black;
-    padding-top: 100px;
-    padding-bottom: 100px; 
+    padding-top: 80px;
+    padding-bottom: 80px; 
 }
 
 
@@ -57,3 +57,6 @@ p{
   color: #9c9c9c;
 }
 
+html {
+    scroll-behavior:smooth
+}
